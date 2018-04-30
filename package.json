@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "build": "bili",
+    "push": "git push",
+    "publish": "echo \"not implemented\""
+  },
+  "devDependencies": {
+    "bili": "^1.6.0"
+  },
+  "dependencies": {
+    "which": "^1.3.0"
+  },
+  "bili": {
+    "config": "./.bili.config.js"
+  }
+}
